@@ -1,0 +1,24 @@
+/* Styles for the new sections */
+.semester h3 {
+    color: #004a99;
+    font-size: 1.5em;
+    margin-top: 20px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.requirements-section ul, .deadlines-section ul {
+    margin-top: 20px;
+}
+
+.deadlines-section ul {
+    font-size: 1.2em;
+}
